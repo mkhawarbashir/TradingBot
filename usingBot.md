@@ -1,3 +1,4 @@
+
 The code I provided is a basic implementation of a trading bot using reinforcement learning. However, deploying a trading bot in the real world environment requires more considerations than just the algorithm and the code. Here are some general steps you can follow to deploy a trading bot in the real world environment:
 
 Choose an exchange: You need to choose a cryptocurrency exchange that allows trading through APIs. Some popular exchanges are Binance, Coinbase, Kraken, etc.
